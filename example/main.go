@@ -1,11 +1,11 @@
-// main.go
+// example/main.go
 package main
 
 import (
 	"fmt"
 	"os"
 
-	"RClog/logger"
+	"github.com/amazashi/RCLOG/logger"
 )
 
 func main() {
