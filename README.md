@@ -1,3 +1,17 @@
+# RClog
+
+RClog 是一个简单的日志库，支持多种日志级别和多个输出目标。
+
+## 安装
+
+你可以通过以下命令安装 RClog：
+
+```shell
+go get github.com/amazashi/RClog
+```
+
+
+
 尝试写一个log库
 
 # 预期功能
