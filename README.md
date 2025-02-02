@@ -7,7 +7,7 @@ RClog 是一个简单的日志库，支持多种日志级别和多个输出目�
 你可以通过以下命令安装 RClog：
 
 ```shell
-go get github.com/amazashi/RClog
+go get github.com/amazashi/RCLOG
 ```
 
 
